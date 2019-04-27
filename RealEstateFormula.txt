@@ -1,0 +1,5 @@
+HOME PRICE= $$*BEDROOMS +$$*BATHS+$$*SQFT/LOT SIZE
+
+p= b0+ b1*x1+ b2*x2+ b3*x3
+
+Home Price=  -715K + 283K*Beds + 99K*Baths + -1K*Age + 32*Lot size + -415K*Townhouse+ -224*Condo+ -53K*SFR + -23K*MFR
